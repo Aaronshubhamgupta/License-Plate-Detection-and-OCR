@@ -35,3 +35,13 @@ Acknowledgments
 
 This project uses OpenCV and Tesseract OCR, which are both open-source libraries. The app also uses Streamlit, which is an open-source framework for building web applications.
 
+Project: License Plate Detection and OCR
+
+Objective: To develop a Streamlit application that detects and extracts license plate numbers from images using OpenCV and Tesseract OCR.
+
+Key Achievements:
+
+1. Successful integration of OpenCV and Tesseract OCR for license plate detection and extraction.
+2. Implementation of preprocessing techniques to enhance image quality and improve detection accuracy.
+3. Development of a robust contour detection algorithm to identify license plate contours.
+4. Creation of a user-friendly Streamlit interface for uploading and processing images.
